@@ -1,5 +1,6 @@
 # Figma_project-Prototype-1
-This is the prototype 1 of the Covid-19 App. 
+This is the prototype 1 of the Covid-19 App. Check out this link to review it https://www.figma.com/proto/pAnKpCpGYOHL4YGsLZM79C/CoronaVirus-App-Layout?node-id=3%3A4&viewport=140%2C481%2C0.1784539520740509&scaling=scale-down
+
 
 <img width="388" alt="Screen Shot 2020-12-10 at 10 17 48 PM" src="https://user-images.githubusercontent.com/39385953/101857877-7872e300-3b36-11eb-9691-332e97417c80.png">
 <img width="385" alt="Screen Shot 2020-12-10 at 10 18 00 PM" src="https://user-images.githubusercontent.com/39385953/101857880-7ad53d00-3b36-11eb-8868-ec4cc1db4032.png">
